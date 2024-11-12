@@ -1,3 +1,5 @@
 public class Demo{
-int j=10;
+int k=100;
+int p=20;
+
 }
