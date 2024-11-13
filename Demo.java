@@ -1,5 +1,6 @@
 public class Demo{
-int k=100;
-int p=20;
-
+  public static void main(String[] args){
+    int k=100;
+    int p=20;
+  }
 }
